@@ -4,12 +4,6 @@ Losh Blog is a fully functional blogging tool built using **Node.js**, **Express
 
 ---
 
-## 🗓️ Project Duration
-
-**December 2023 – January 2024**
-
----
-
 ## 🚀 Features
 
 ### 👨‍💻 Author Features
@@ -108,9 +102,9 @@ Middleware usage for role-based access control
 💬 Comment system could support reply threading in the future
 
 ## 👤 Author
-Losheni Meenakshi Sundaram
-Student at Singapore Institute of Management
-📫 Email: losheni.ms@gmail.com
+- Losheni Meenakshi Sundaram
+- Student at Singapore Institute of Management
+- 📫 Email: losheni.ms@gmail.com
 
 ## 🗃️ License
 This project is licensed for academic and personal learning use only.
